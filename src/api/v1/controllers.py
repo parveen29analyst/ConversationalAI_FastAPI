@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.schemas.message import MessageSchema
-from app.services.chatbot import ChatbotService
+from src.schemas.message import MessageSchema
+from src.services.chatbot import ChatbotService
 
 router = APIRouter()
 chatbot_service = ChatbotService()

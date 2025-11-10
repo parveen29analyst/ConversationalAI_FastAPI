@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: conversational-chatbot
+Version: 0.1.0
+Summary: A FastAPI project for a conversational agent chatbot.
+Author-email: parveen29analyst <parveen29analyst@gmail.com>
+License-Expression: MIT
